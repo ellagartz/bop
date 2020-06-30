@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hello, my name is Ella Gartz!
 
-You can use the [editor on GitHub](https://github.com/ellagartz/my-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my website. As you scroll, you will be able to find all sorts of work from my portfolio. Feel free to 
 
 ### Markdown
 
