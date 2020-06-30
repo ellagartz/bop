@@ -1,13 +1,14 @@
-## Hello, my name is Ella Gartz!
+## Who am I?
 
-Welcome to my website. As you scroll, you will be able to find all sorts of work from my portfolio. Feel free to 
+Hello, my name is Ella Gartz. I am an avid artist who loves to design and create digital projects. As you scroll, you will be able to view my favorite pieces from my portfolio.
 
-### Markdown
+### What do I design?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The artwork displayed on this website is all built digitally. You can find...
 
-```markdown
-Syntax highlighted code block
+- animated versions of photos
+- characters and fun designs 
+- logos/podcast covers/youtube graphics 
 
 # Header 1
 ## Header 2
