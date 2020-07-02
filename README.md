@@ -1,8 +1,8 @@
-## Who am I?
+## WHO AM I?
 
 Hello, my name is Ella Gartz. It is so nice to meet you here (on this website portfolio I coded). I an introducing myseld today as an avid artist who loves to design and create digital projects. I welcome you to scroll throughout this static page in order to be able to view my favorite pieces from this portfolio.
 
-### What do I design?
+## WHAT DO I DESIGN?
 
 The artwork displayed on this website is all built digitally. 
 
@@ -13,11 +13,11 @@ I love to make...
 - logos/podcast covers/youtube graphics 
 
 
-## You can view some of my favorite pieces below: 
+## VIEW MY GALLERY PORTFOLIO: 
 
 
 
-# What will my order look like? 
+## WHAT WILL MY ORDER LOOK LIKE? 
 
 If you would like to request a digital animation, I will as you to follow these steps: 
 
@@ -26,8 +26,7 @@ If you would like to request a digital animation, I will as you to follow these 
 3. Wait a few days for an email for me with final options. 
 4. Make your purchase & take home an awesome graphic via fivver.com! 
 
-
-## Contact us & make a graphic request today! 
+## CONTACT US & MAKE A GRAPHIC REQUEST TODAY!
 
 Please email me via ellagartz.graphics@gmail.com and use fivver.com to transact a payment.
 
