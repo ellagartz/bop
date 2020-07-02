@@ -31,7 +31,7 @@ If you would like to request a digital animation, I will as you to follow these 
 
 
 
-## CONTACT US & MAKE A GRAPHIC REQUEST TODAY!
+## CONTACT ME & MAKE A GRAPHIC REQUEST TODAY!
 
 Please email me via ellagartz.graphics@gmail.com and use fivver.com to transact a payment.
 
